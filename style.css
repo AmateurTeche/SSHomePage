@@ -6,7 +6,6 @@
 	--main-fonts-color: #fff;
 	--main-decor-color:#00a9e2;
     --main-header-background:#21252e;
-	--main-font-family: 'Russo One', sans-serif;
 }
 
 *{
@@ -65,7 +64,7 @@ a.nav-link{
 	padding: 5px 10px;
 	text-decoration: none;
 	color: var(--main-fonts-color);
-	font-family: var(--main-font-family);
+	font-family: 'Russo One', sans-serif;
 	cursor: pointer;
 	text-transform: uppercase;
 }
@@ -116,14 +115,14 @@ a.nav-link{
 .intro  p{
     margin: 5px;
 	font-size:1.2rem;
-	font-family: var(--main-fonts-family);
+	font-family: 'Russo One', sans-serif;
 	text-align:center;
 }
 
  h3{
 	padding-bottom: 15px;
     letter-spacing: normal;
-    font-family: var(--main-font-family);
+        font-family: 'Russo One', sans-serif;
 	font-style: normal;
 	font-size: 60px;
 	color: var(--main-fonts-color);
@@ -178,7 +177,7 @@ a.nav-link{
     padding-top: 70px;
 }
 #projects p{
-	font-family: var(--main-font-family);
+	font-family: 'Space Mono', monospace;
 	font-size:1.2rem;
 	padding: 10px;
 }
@@ -213,7 +212,7 @@ a.nav-link{
 	padding: 10px 5px;
 	font-size: 1rem;
 	color: var(--main-fonts-color);
-	font-family: var(--main-font-family);
+	font-family: 'Space Mono', monospace;
 	cursor: pointer;
 }
 
@@ -248,7 +247,7 @@ a.nav-link{
 	padding:10px;
 	text-align:center;
 	font-size:1.2rem;
-	font-family: var(--main-font-family);
+	font-family: 'Russo One', sans-serif;
 }
 
 /*────────────────── 
