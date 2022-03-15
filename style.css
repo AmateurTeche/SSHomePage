@@ -6,7 +6,7 @@
 	--main-fonts-color: #fff;
 	--main-decor-color:#00a9e2;
     --main-header-background:#21252e;
-	--main-font-family: 'Poppins', sans-serif;
+	--main-font-family: 'Russo One', sans-serif;
 }
 
 *{
@@ -116,7 +116,7 @@ a.nav-link{
 .intro  p{
     margin: 5px;
 	font-size:1.2rem;
-	font-family: 'Russo One';
+	font-family: var(--main-fonts-family);
 	text-align:center;
 }
 
